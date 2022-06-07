@@ -1,0 +1,2 @@
+# Prova-Semestral-Soft-Design-E-Total-Experience-
+Prova semestral da (FIAP) I Matéria> Soft Design e Total Experience - Partindo de um case, tivemos que desenvolver: Backlog do site contendo módulo, ID,  funcionalidade, estória de usuário e prioridade. Análise de requisitos, contendo os requisitos funcionais e regras de negócio. Diagrama de casos de uso do caso principal feito na ferramenta Astah e sua documentação, contendo: Título, sumário, ator primário, precondições, fluxo principal, fluxo alternativo e fluxo de exceção.
